@@ -22,3 +22,6 @@ The game is very simple:
 - When the player hovers over a valid move a line is displayed with the current player's color.
 - When a player completes a square box (places the last line to form the box) the box will be colored with the player's color (green or red) and the player receives one point. In addition, the player who scores a point gets an extra move and can chain multiple moves as long as he/she keeps completing boxes. 
 - The game finishes when there are no more lines to draw and the player with the most points is the winner.
+
+This is an overveiw of the game's User Interface (UI):
+![]()
