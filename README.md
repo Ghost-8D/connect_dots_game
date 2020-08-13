@@ -23,5 +23,6 @@ The game is very simple:
 - When a player completes a square box (places the last line to form the box) the box will be colored with the player's color (green or red) and the player receives one point. In addition, the player who scores a point gets an extra move and can chain multiple moves as long as he/she keeps completing boxes. 
 - The game finishes when there are no more lines to draw and the player with the most points is the winner.
 
+### User Interface
 This is an overveiw of the game's User Interface (UI):
 ![](https://github.com/Ghost-8D/connect_dots_game/blob/master/connect_the_dots_game/UI_overview.jpg)
