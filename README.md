@@ -24,5 +24,5 @@ The game is very simple:
 - The game finishes when there are no more lines to draw and the player with the most points is the winner.
 
 ### User Interface
-This is an overveiw of the game's User Interface (UI):
+This is an example of the game's User Interface (UI):
 ![](https://github.com/Ghost-8D/connect_dots_game/blob/master/connect_the_dots_game/UI_overview.jpg)
